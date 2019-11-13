@@ -1,2 +1,16 @@
-# svm_advanced_smc
-Note, demo, reference etc of support vector machine
+# Practical Introduction to Support Vector Machine
+
+- Hard-margin SVM
+  - Calculation of margin
+  - Dual representation
+  - Quadratic programming
+  - Langulange multiplier
+  - KKT condition
+  - Support vectors
+  - SMO algorithm
+- Soft-margin SVM
+  - Slack variable
+  - Penalty C
+- Nonlinear SVM
+  - Kernel function
+  - Kernel trick
