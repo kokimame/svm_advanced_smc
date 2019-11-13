@@ -1,6 +1,7 @@
 # Practical Introduction to Support Vector Machine
 
 - Hard-margin SVM
+  - Two-class linear classification
   - Calculation of margin
   - Dual representation
   - Quadratic programming
@@ -14,3 +15,4 @@
 - Nonlinear SVM
   - Kernel function
   - Kernel trick
+  
