@@ -1,18 +1,18 @@
 # Practical Introduction to Support Vector Machine
 
-- Hard-margin SVM
-  - Two-class linear classification
-  - Calculation of margin
-  - Dual representation
-  - Quadratic programming
-  - Langulange multiplier
-  - KKT condition
-  - Support vectors
-  - SMO algorithm
-- Soft-margin SVM
-  - Slack variable
-  - Penalty C
-- Nonlinear SVM
-  - Kernel function
-  - Kernel trick
+- Hard-margin SVM\n",
+  - Two-class linear classification\n",
+  - Calculation of margin\n",
+  - Langulange multiplier\n",
+  - KKT condition (Support vectors)\n",
+- Soft-margin SVM\n",
+  - Slack variable\n",
+  - Penalty control by C\n",
+  - How to train SVM (SMO algorithm)\n",
+- Nonlinear SVM\n",
+  - Kernel function\n",
+  - Kernel trick\n",
+- Appendix\n",
+  - Example of Langulange multipler\n",
+  - Quadratic programming"
   
