@@ -1,4 +1,4 @@
-# Practical Introduction to Support Vector Machine
+# Practical Introduction to Support Vector Machine 
 
 - Hard-margin SVM
   - Two-class linear classification
